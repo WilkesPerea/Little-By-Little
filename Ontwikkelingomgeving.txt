@@ -1,0 +1,6 @@
+What Software and Hardware I will Use During this Project
+
+Hp Pavilion Laptop 15-eh3xxx
+Windows 11
+Unity 6.2
+Aseprite
