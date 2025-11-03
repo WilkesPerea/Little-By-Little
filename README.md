@@ -6,7 +6,14 @@ and there are dog on the way, they will bite you and cool luck trying to avoid t
 
 ## Installatie
 
-Open your project > look top left > Assets > Import package > custom package
+1. Go to unity hub, start a 2D project
+2. when project is open, look left on top.
+3. go to assets and import custom packages
+4. dowload cinimachine.
+5. go to player settings > other settings > Active input Handling
+6. then you should be set but if the background is infrom of the screen
+7. you need to add an background layer and put all the gameobject on the background layer.
+
 
 ## Usage
 
