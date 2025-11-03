@@ -16,6 +16,7 @@ and there are dog on the way, they will bite you and cool luck trying to avoid t
 
 
 ## Usage
+Unity 6.2
 
 I am using GandalfHardcore FREE Platformer Assets for the background and the tiles
 
