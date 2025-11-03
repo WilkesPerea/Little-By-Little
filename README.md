@@ -14,6 +14,13 @@ and there are dog on the way, they will bite you and cool luck trying to avoid t
 6. then you should be set but if the background is infrom of the screen
 7. you need to add an background layer and put all the gameobject on the background layer.
 
+## How to Play
+A is to the left
+D is to the right
+Spacebar is to jump
+F is to interact
+
+when mouse is active just left click
 
 ## Usage
 Unity 6.2
